@@ -15,7 +15,6 @@ namespace Tyuiu.KuzakinSI.Sprint0.Task5.V0
             Console.WriteLine(DataService.Addition(5, 5));
             Console.WriteLine(DataService.Substraction(15, 5));
             Console.WriteLine(DataService.Multiplication(5, 5));
-
             Console.WriteLine(DataService.Division(5, 0));
         }
     }
